@@ -5,7 +5,7 @@
 Step 1: First install a Userscript Manager Extention like
 
 * OrangeMonkey
-* [tampermonkey](tampermonkey.net)
+* [tampermonkey](https://tampermonkey.net)
 
 Step 2: Enable the extention.
 
