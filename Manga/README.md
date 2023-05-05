@@ -1,4 +1,4 @@
-# WebScripts
+# MANGA - WEBSCRIPTS
 
 ## Working
 
@@ -13,7 +13,7 @@ Step 3: Go to the exention dashboard(tampermonkey) or settings(OrangeMonkey).
 
 Step 4: Select new.
 
-Step 5: Copy and Paste the script from code(eg. [manganato](./Manga/manganato.js)).
+Step 5: Copy and Paste the script from code(eg. [manganato](./manganato.js)).
 
 Step 6: Save the code.
 
