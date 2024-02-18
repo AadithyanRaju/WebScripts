@@ -3,6 +3,7 @@
 // @namespace   Azure
 // @match       *://readmanganato.com/*/*
 // @match       *://chapmanganato.com/*/*
+// @match       *://chapmanganato.to/*/*
 // @grant       none
 // @version     1.0
 // @author      Azure Dragon
