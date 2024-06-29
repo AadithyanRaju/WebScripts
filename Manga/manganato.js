@@ -61,3 +61,11 @@ window.onkeydown = function(e) {
             break;
     }
 }
+//Preload next chapter Recursively (Run this only on unmetered connections, as it will consume data.)
+window.addEventListener('load', function() {
+    var frame = document.createElement('iframe');
+    frame.style.width = '0';
+    frame.style.height = '0';
+    frame.src = document.querySelectorAll(chapterButtons[1])[0].href;
+    document.body.appendChild(frame);
+});
